@@ -1,13 +1,14 @@
 # isThisEmailGoogleEmail
 Check MX source server off email
 
-# Build javafile:
+<h1> Build javafile: </h1>
 
 javac IsThisEmailGoogleEmail.java
 
-# Commandline. call main with args[]
+<h1> Commandline. </h1>
+<h3> call main with args[] </h3>
 
 java IsThisEmailGoogleEmail [email or list of emails to check]
 
-# run example
+<h1> Example </h1>
 java IsThisEmailGoogleEmail test@mail.com test2@mail.com 
